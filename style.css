@@ -1,0 +1,89 @@
+body {
+  background-color: #F5F5F5;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  font-family: Bahnschrift;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+#kontejner {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 5%;
+  padding: 20px;
+
+  color: rgb(0, 0, 0);
+  background-color: #ffffff91;
+
+
+  border-radius: 20px;
+  
+  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.267);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 50pt;
+}
+
+.temperature {
+  background-color: #0069d9;
+
+  color: white;
+  font-size: 30pt;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 33px;
+  width:fit-content;
+
+  margin-top: none;
+
+
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group label {
+  display: block;
+  margin: 20px;
+  font-weight: bold;
+}
+
+.form-group input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  border-radius: 20px;
+  border: 3px solid #0000003a;
+  margin-bottom: 20px;
+}
+
+.form-group button {
+  display: block;
+  width: 30%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: auto;
+}
+
+.form-group button:hover {
+  background-color: #0069d9;
+}
+
+form {
+  margin: auto;
+  width: 30%;
+}
+
+
+

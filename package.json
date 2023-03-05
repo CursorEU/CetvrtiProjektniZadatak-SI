@@ -1,0 +1,20 @@
+{
+  "name": "cetvrtiprojektnizadatak-si",
+  "version": "1.0.0",
+  "description": "prognoza vremena",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CursorEU/CetvrtiProjektniZadatak-SI.git"
+  },
+  "author": "afan",
+  "license": "ISC"
+}
+
+
+
+  
+  
